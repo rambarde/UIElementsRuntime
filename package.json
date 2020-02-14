@@ -1,5 +1,5 @@
 {
-	"packageName": "https://github.com/rambarde/UIElementsRuntime.git",
+	"PackageName": "https://github.com/rambarde/UIElementsRuntime.git",
 	"name": "com.rambarde.ui.runtime",
 	"displayName":"Custom UIElements Runtime",
 	"version": "0.0.3-preview",
